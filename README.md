@@ -1,1 +1,1 @@
-# The-Bomberman-Game-ALGO
+# The-Bomberman-Game-ALGO It simulates the Bomberman game, where bombs are planted and explode in specific time cycles. The function bomberMan (currently empty) will implement the rules—filling empty cells with bombs and detonating them in patterns—to return the final grid configuration after n seconds.
